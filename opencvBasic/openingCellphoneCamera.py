@@ -7,7 +7,7 @@ video = cv2.VideoCapture()
 # copie o ip q possui 'https'
 # insira o ip no parametro abaixo
 
-ip = "{seuip}/video"
+ip = "{your-ip}/video"
 video.open(ip)
 
 while True:
