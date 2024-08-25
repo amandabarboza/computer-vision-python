@@ -66,4 +66,4 @@ Contributions are welcome! If you wish to contribute to the project, please foll
 6. Open a Pull Request
 
 ## Contact
-Amanda Barboza - [LinkedIn](https://www.linkedin.com/in/amanda-barboza/) - amandabarboza.dev@gmail.com
+Amanda Barboza - [LinkedIn](https://www.linkedin.com/in/amanda-barboza-dev/) - amandabarboza.dev@gmail.com
