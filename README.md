@@ -4,7 +4,7 @@
 ![OpenCV Version](https://img.shields.io/badge/OpenCV-4.10.0.84-brightgreen)
 ![PyCharm](https://img.shields.io/badge/PyCharm-Community%20Edition-purple)
 
-Designed for educational purposes, this repository contains a basic Computer Vision project developed in Python using the OpenCV library. The goal of this project is to introduce fundamental Computer Vision concepts, such as morphology, adding shapes and text to images or videos, using the smartphone camera, opening images, videos, and the webcam. Development was carried out using PyCharm Community Edition and the `opencv-python` package version `4.10.0.84`.
+Created for educational purposes, this repository contains a basic Computer Vision project developed in Python using the OpenCV library. The goal of this project is to introduce fundamental Computer Vision concepts, such as morphology, adding shapes and text to images or videos, using the smartphone camera, opening images, videos, and the webcam. Development was carried out using PyCharm Community Edition and the `opencv-python` package version `4.10.0.84`.
 
 ## Table of Contents
 
