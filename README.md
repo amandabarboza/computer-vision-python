@@ -29,7 +29,7 @@ This project covers basic Computer Vision concepts using Python and OpenCV. The 
 
 ### Prerequisites
 
-- **Python 3.10+**
+- **Python 3.11+**
 - **pip**
 - **PyCharm Community Edition**
 - **opencv-python version 4.10.0.84**
