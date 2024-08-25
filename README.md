@@ -10,6 +10,7 @@ This repository contains a basic Computer Vision project developed in Python usi
 
 - [Overview](#overview)
 - [Installation](#installation)
+- [Using the Smartphone Camera](#using-the-smartphone-camera)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
