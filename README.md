@@ -79,7 +79,7 @@ To capture video from your smartphone camera using the IP Webcam app, follow the
 
 1. **Replace `{your-ip}` in the `openingCellphoneCamera.py` script with the URL displayed by the IP Webcam app.**
 
-2. **Run the `mobile_camera.py` 
+2. **Run the `mobile_camera.py`**
 
 
 
