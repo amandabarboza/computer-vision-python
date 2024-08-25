@@ -1,1 +1,1 @@
-# visao-computacional-python
+# Computer Vision using OpenCv and Python
