@@ -13,7 +13,6 @@ Created for educational purposes, this repository contains a basic Computer Visi
 - [Using the Smartphone Camera](#using-the-smartphone-camera)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Overview
 
@@ -98,6 +97,6 @@ Contributions are welcome! If you wish to contribute to the project, please foll
 5. Push the changes to your Fork
 6. Open a Pull Request
 
-## Contact
+Developed by
 Amanda Barboza - amandabarboza.dev@gmail.com
 <!-- [LinkedIn](https://www.linkedin.com/in/amanda-barboza-dev/) -->
