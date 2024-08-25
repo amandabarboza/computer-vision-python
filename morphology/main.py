@@ -7,6 +7,8 @@ imgBlur = cv2.GaussianBlur(imgCinza,(7,7),0)
 imgCanny = cv2.Canny(img,50,100)
 imgDilat = cv2.dilate(imgCanny,(5,5),iterations=5)
 imgErode = cv2.erode(imgCanny,(5,5),iterations=2)
+imgOpening = cv2.morphologyEx(imgCanny,cv2.MORPH_OPEN,(5,5))
+imgClosing = cv2.morphologyEx(imgCanny,cv2.MORPH_CLOSE,(5,5))
 
 cv2.imshow('Img Original',img)
 
@@ -24,6 +26,8 @@ cv2.imshow('Img Dilat',imgDilat)
 
 #tende a criar uma erosão, desfragmentando os objetos
 cv2.imshow('Img Erode',imgErode)
+cv2.imshow('Img Open',imgOpening)
+cv2.imshow('Img Close',imgClosing)
 
 
 cv2.waitKey(0)
