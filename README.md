@@ -97,6 +97,8 @@ Contributions are welcome! If you wish to contribute to the project, please foll
 5. Push the changes to your Fork
 6. Open a Pull Request
 
+<br/>
+
 Developed by
 Amanda Barboza - amandabarboza.dev@gmail.com
 <!-- [LinkedIn](https://www.linkedin.com/in/amanda-barboza-dev/) -->
