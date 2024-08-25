@@ -49,6 +49,38 @@ This project covers basic Computer Vision concepts using Python and OpenCV. The 
 3. **Install OpenCV Package** <br/>
    File > Settings > Project: computer-v... > Python Interpreter <br/>
     '+' (button) > write opencv-python > install package > close
+## Using the Smartphone Camera
+
+To use your smartphone camera with this project, you'll need to download and install the IP Webcam app. Follow the steps below to install and set up the app:
+
+### Steps to Install IP Webcam
+
+1. **Download and Install IP Webcam on Your Smartphone**
+
+   - Go to the [Google Play Store](https://play.google.com/store/apps/details?id=com.pas.webcam) on your Android smartphone.
+   - Search for "IP Webcam".
+   - Tap "Install" and wait for the installation to complete.
+
+2. **Configure IP Webcam**
+
+   - Open the IP Webcam app on your smartphone.
+   - Go to "Settings" to adjust options as needed (resolution, video quality, etc.).
+   - Tap "Start server" to begin streaming from your camera.
+
+3. **Connect to the Smartphone Camera**
+
+   - After starting the server in IP Webcam, you'll see a URL displayed on your smartphone.
+   - On your computer, use this URL to access the camera stream.
+
+### Running the Mobile Camera Script
+
+To capture video from your smartphone camera using the IP Webcam app, follow these steps:
+
+1. **Replace `{your-ip}` in the `openingCellphoneCamera.py` script with the URL displayed by the IP Webcam app.**
+
+2. **Run the `mobile_camera.py` script:**
+
+
 
 ## Usage
 
